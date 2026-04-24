@@ -7,7 +7,7 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Designer+%7C+Filmmaker+%7C+Dev;CEO+da+Venoy+Studio;Criando+experi%C3%AAncias+digitais;Automatizando+tudo+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Designer+%7C+Videomaker;CEO+da+Venoy+Studio;Criando+experi%C3%AAncias+digitais;Automatizando+tudo+%F0%9F%A4%96" />
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulovenoy&show_icons=true&theme=chartreuse-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovenoy&layout=compact&theme=chartreuse-dark"/>
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ## 🧬 Atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulovenoy&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF"/>
 </p>
 
 ---
