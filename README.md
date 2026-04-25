@@ -48,14 +48,6 @@
 
 ---
 
-## 🧬 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paulovenoy&theme=react-dark&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF"/>
-</p>
-
----
-
 ## 🏆 Badges
 
 <p align="center">
@@ -63,40 +55,6 @@
   <img src="https://img.shields.io/badge/CRIADOR-DE%20SISTEMAS-00ff00?style=for-the-badge&logo=code&logoColor=black"/>
   <img src="https://img.shields.io/badge/DESIGNER-DIGITAL-00ff00?style=for-the-badge&logo=adobe&logoColor=black"/>
   <img src="https://img.shields.io/badge/CEO-VENOY%20STUDIO-00ff00?style=for-the-badge&logo=fire&logoColor=black"/>
-</p>
-
----
-
-## 🌐 Contato
-
-<p align="center">
-  <a href="https://instagram.com/SEUUSER">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00"/>
-  </a>
-  <a href="https://linkedin.com/in/SEUUSER">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00"/>
-  </a>
-</p>
-
----
-
-## 💻 Terminal
-
-```bash
-venoy@github:~$ whoami
-> Paulo | Venoy
-
-venoy@github:~$ skills --list
-> Design, Automação, Bots, Marketing, Vídeo
-
-venoy@github:~$ status
-> Construindo algo grande...
-```
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200px"/>
 </p>
 
 ---
