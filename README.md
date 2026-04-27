@@ -1,10 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Olá, eu sou o Paulo (Venoy)
-
-```bash
-> Inicializando sistema...
-> Acesso concedido ✔
-> Bem-vindo ao perfil de Venoy
-```
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Olá, eu sou o Paulo Venoy!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Designer+%7C+Videomaker;CEO+da+Venoy+Studio;Criando+experi%C3%AAncias+digitais;Automatizando+tudo+%F0%9F%A4%96" />
