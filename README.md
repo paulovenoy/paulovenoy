@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paulovenoy&show_icons=true&theme=chartreuse-dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovenoy&layout=compact&theme=chartreuse-dark"/>
-</p>
-
----
-
 ## 🏆 Badges
 
 <p align="center">
