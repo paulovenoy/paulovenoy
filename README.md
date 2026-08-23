@@ -8,11 +8,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=paulovenoy&label=VISITAS&color=00ff88&style=for-the-badge" alt="Visualizações">
+<img src="https://komarev.com/ghpvc/?username=paulovenoy&label=VISITAS&color=007A4D&style=for-the-badge" alt="Visualizações">
 
-<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&color=00ff88&labelColor=0D1117&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores">
+<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&color=007A4D&labelColor=0D1117&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores">
 
-<img src="https://img.shields.io/github/stars/paulovenoy?style=for-the-badge&affiliations=OWNER&color=00ff88&labelColor=0D1117&logo=github&logoColor=white&label=ESTRELAS" alt="Estrelas">
+<img src="https://img.shields.io/github/stars/paulovenoy?style=for-the-badge&affiliations=OWNER&color=007A4D&labelColor=0D1117&logo=github&logoColor=white&label=ESTRELAS" alt="Estrelas">
 
 </div>
 
@@ -71,7 +71,7 @@ Bot multifuncional para **WhatsApp**, desenvolvido com foco em automações, com
 **Tecnologia:** JavaScript
 
 <a href="https://github.com/paulovenoy/venoyBot">
-<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VER_PROJETO-007A4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -85,7 +85,7 @@ Sistema para realização de **sorteios online**, incluindo painel administrativ
 **Tecnologia:** JavaScript
 
 <a href="https://github.com/paulovenoy/venoyGiveway">
-<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VER_PROJETO-007A4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -101,7 +101,7 @@ Aplicação para organizar suas finanças acompanhando **entradas, saídas e sal
 **Tecnologia:** JavaScript
 
 <a href="https://github.com/paulovenoy/venoyFinances">
-<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VER_PROJETO-007A4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -115,7 +115,7 @@ Página para centralizar **links e redes sociais** em um único ambiente persona
 **Tecnologia:** CSS
 
 <a href="https://github.com/paulovenoy/venoyLinkBio">
-<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VER_PROJETO-007A4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -128,16 +128,16 @@ Página para centralizar **links e redes sociais** em um único ambiente persona
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00FF88">
+<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=007A4D">
 
-<img src="https://img.shields.io/github/stars/paulovenoy?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117&color=00FF88">
+<img src="https://img.shields.io/github/stars/paulovenoy?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0D1117&color=007A4D">
 
-<img src="https://img.shields.io/badge/FOCO-FULL%20STACK-00FF88?style=for-the-badge&labelColor=0D1117">
+<img src="https://img.shields.io/badge/FOCO-FULL%20STACK-007A4D?style=for-the-badge&labelColor=0D1117">
 
 <br><br>
 
 <a href="https://github.com/paulovenoy?tab=repositories">
-<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-007A4D?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
@@ -148,13 +148,13 @@ Página para centralizar **links e redes sociais** em um único ambiente persona
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-00FF88?style=for-the-badge&logo=probot&logoColor=black">
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-007A4D?style=for-the-badge&logo=probot&logoColor=white">
 
-<img src="https://img.shields.io/badge/FULL_STACK-00FF88?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/FULL_STACK-007A4D?style=for-the-badge&logo=javascript&logoColor=white">
 
-<img src="https://img.shields.io/badge/DESIGNER-DIGITAL-00FF88?style=for-the-badge&logo=adobe&logoColor=black">
+<img src="https://img.shields.io/badge/DESIGNER-DIGITAL-007A4D?style=for-the-badge&logo=adobe&logoColor=white">
 
-<img src="https://img.shields.io/badge/FOUNDER-VENOY_STUDIO-00FF88?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/FOUNDER-VENOY_STUDIO-007A4D?style=for-the-badge&logo=github&logoColor=white">
 
 </div>
 
@@ -165,15 +165,15 @@ Página para centralizar **links e redes sociais** em um único ambiente persona
 <div align="center">
 
 <a href="https://www.linkedin.com/in/paulovenoy">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000">
+<img src="https://img.shields.io/badge/LINKEDIN-007A4D?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://github.com/paulovenoy">
-<img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88">
 </a>
 
 <a href="https://www.instagram.com/paulovenoy">
-<img src="https://img.shields.io/badge/INSTAGRAM-00FF88?style=for-the-badge&logo=instagram&logoColor=000000">
+<img src="https://img.shields.io/badge/INSTAGRAM-007A4D?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
