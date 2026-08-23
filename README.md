@@ -2,13 +2,17 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou o Paulo Venoy!
 
-### Desenvolvedor • Designer • Criador Digital
+### 💻 Full Stack Developer • 🎨 Designer • ⚡ Automation
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&size=22&center=true&vCenter=true&width=600&duration=3500&pause=1000&lines=Full+Stack+Developer+%F0%9F%92%BB;Founder+da+Venoy+Studio+%F0%9F%9A%80;Automa%C3%A7%C3%B5es+%26+Sistemas+Inteligentes+%F0%9F%A4%96;Design+%26+Experi%C3%AAncias+Digitais+%E2%9C%A8;Transformando+ideias+em+produtos+digitais." alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF88&size=22&center=true&vCenter=true&width=700&duration=3500&pause=1000&lines=Full+Stack+Developer+%F0%9F%92%BB;Founder+da+Venoy+Studio+%F0%9F%9A%80;Automa%C3%A7%C3%B5es+%26+Sistemas+Inteligentes+%F0%9F%A4%96;Design+%26+Experi%C3%AAncias+Digitais+%E2%9C%A8;Transformando+ideias+em+produtos+digitais." alt="Typing SVG">
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=paulovenoy&label=VISITAS&color=00ff88&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=paulovenoy&label=VISITAS&color=00ff88&style=for-the-badge" alt="Visualizações">
+
+<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&color=00ff88&labelColor=0D1117&logo=github&logoColor=white&label=SEGUIDORES" alt="Seguidores">
+
+<img src="https://img.shields.io/github/stars/paulovenoy?style=for-the-badge&affiliations=OWNER&color=00ff88&labelColor=0D1117&logo=github&logoColor=white&label=ESTRELAS" alt="Estrelas">
 
 </div>
 
@@ -20,7 +24,7 @@
 🤖 Apaixonado por **automação, bots e sistemas inteligentes**
 🎨 Trabalho também com **design e produção audiovisual**
 🚀 Founder da **Venoy Studio**
-⚡ Sempre buscando transformar ideias em **projetos reais e funcionais**
+⚡ Transformando ideias em **projetos reais e funcionais**
 
 > *"Não é só estética. É presença digital."*
 
@@ -30,15 +34,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github&theme=dark" alt="Tech Stack">
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github&theme=dark" alt="Tecnologias">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-`JavaScript` • `Node.js` • `Python` • `HTML` • `CSS` • `Git`
+`JavaScript` • `Node.js` • `Python` • `HTML` • `CSS` • `Git` • `GitHub`
 
 </div>
 
@@ -48,13 +48,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" alt="Creative Tools">
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" alt="Ferramentas criativas">
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 `Photoshop` • `Illustrator` • `Premiere Pro` • `After Effects`
 
@@ -62,50 +58,65 @@
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Projetos
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/AUTOMAÇÃO-00FF88?style=for-the-badge&logo=probot&logoColor=000000">
-<img src="https://img.shields.io/badge/DESENVOLVIMENTO-00FF88?style=for-the-badge&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/DESIGN-00FF88?style=for-the-badge&logo=adobe&logoColor=000000">
-<img src="https://img.shields.io/badge/VENOY_STUDIO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
-
-</div>
-
-<br>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-### 🤖 Automação
+### 🤖 Venoy Bot
 
-Bots, integrações e sistemas criados para automatizar processos e transformar tarefas repetitivas em soluções inteligentes.
+Bot multifuncional para **WhatsApp**, desenvolvido com foco em automações, comandos e funcionalidades inteligentes.
+
+**Tecnologia:** JavaScript
+
+<a href="https://github.com/paulovenoy/venoyBot">
+<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
 
 </td>
-<td align="center" width="50%">
 
-### 💻 Desenvolvimento
+<td width="50%" valign="top">
 
-Aplicações, páginas e produtos digitais desenvolvidos com foco em funcionalidade, experiência e performance.
+### 🎁 Venoy Giveaway
+
+Sistema para realização de **sorteios online**, incluindo painel administrativo para gerenciamento.
+
+**Tecnologia:** JavaScript
+
+<a href="https://github.com/paulovenoy/venoyGiveway">
+<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🎨 Design
+### 💰 Venoy Finances
 
-Identidades visuais, interfaces e materiais digitais pensados para criar presença e comunicação profissional.
+Aplicação para organizar suas finanças acompanhando **entradas, saídas e saldo total**.
+
+**Tecnologia:** JavaScript
+
+<a href="https://github.com/paulovenoy/venoyFinances">
+<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
 
 </td>
-<td align="center">
 
-### 🎬 Audiovisual
+<td width="50%" valign="top">
 
-Criação e edição de conteúdos visuais para marcas, projetos e produtos digitais.
+### 🔗 Venoy Link Bio
+
+Página para centralizar **links e redes sociais** em um único ambiente personalizado.
+
+**Tecnologia:** CSS
+
+<a href="https://github.com/paulovenoy/venoyLinkBio">
+<img src="https://img.shields.io/badge/VER_PROJETO-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
 
 </td>
 </tr>
@@ -113,29 +124,21 @@ Criação e edição de conteúdos visuais para marcas, projetos e produtos digi
 
 ---
 
-## 🧩 Projetos
+## 📊 GitHub
 
 <div align="center">
 
-<a href="https://github.com/paulovenoy/venoyBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulovenoy&repo=venoyBot&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88&border_color=21262D">
+<img src="https://img.shields.io/github/followers/paulovenoy?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0D1117&color=00FF88">
+
+<img src="https://img.shields.io/github/stars/paulovenoy?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&labelColor=0D1117&color=00FF88">
+
+<img src="https://img.shields.io/badge/FOCO-FULL%20STACK-00FF88?style=for-the-badge&labelColor=0D1117">
+
+<br><br>
+
+<a href="https://github.com/paulovenoy?tab=repositories">
+<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-00FF88?style=for-the-badge&logo=github&logoColor=000000">
 </a>
-
-<a href="https://github.com/paulovenoy/venoyFinances">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulovenoy&repo=venoyFinances&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&icon_color=00FF88&border_color=21262D">
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=paulovenoy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF&locale=pt-br">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovenoy&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&locale=pt-br">
 
 </div>
 
@@ -145,10 +148,33 @@ Criação e edição de conteúdos visuais para marcas, projetos e produtos digi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCO-AUTOMAÇÃO-00FF88?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/CRIADOR-SISTEMAS-00FF88?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/DESIGNER-DIGITAL-00FF88?style=for-the-badge&logoColor=black">
-<img src="https://img.shields.io/badge/FOUNDER-VENOY_STUDIO-00FF88?style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/AUTOMAÇÃO-00FF88?style=for-the-badge&logo=probot&logoColor=black">
+
+<img src="https://img.shields.io/badge/FULL_STACK-00FF88?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/DESIGNER-DIGITAL-00FF88?style=for-the-badge&logo=adobe&logoColor=black">
+
+<img src="https://img.shields.io/badge/FOUNDER-VENOY_STUDIO-00FF88?style=for-the-badge&logo=github&logoColor=black">
+
+</div>
+
+---
+
+## 📫 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/paulovenoy">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF88?style=for-the-badge&logo=linkedin&logoColor=000000">
+</a>
+
+<a href="https://github.com/paulovenoy">
+<img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=000000">
+</a>
+
+<a href="https://www.instagram.com/paulovenoy">
+<img src="https://img.shields.io/badge/INSTAGRAM-00FF88?style=for-the-badge&logo=instagram&logoColor=000000">
+</a>
 
 </div>
 
@@ -165,11 +191,13 @@ Tecnologia, criatividade e estratégia para transformar
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2&section=footer">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2&section=footer" width="100%">
 
 <br>
 
-⭐ **Se chegou até aqui, deixa uma estrela nos projetos.**
+### 🚀 Building the digital future.
+
+⭐ **Gostou de algum projeto? Deixe uma estrela!**
 
 <sub>Designed & developed by <b>Paulo Venoy</b> 💚</sub>
 
