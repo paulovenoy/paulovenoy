@@ -1,47 +1,143 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Olá, eu sou o Paulo Venoy!
+```md
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+%7C+Designer+%7C+Videomaker;CEO+da+Venoy+Studio;Criando+experi%C3%AAncias+digitais;Automatizando+tudo+%F0%9F%A4%96" />
-</p>
+# 👋 Olá, eu sou o Paulo Venoy
+
+### 💻 Full Stack Developer • ⚡ Automation • 🚀 Digital Solutions
+
+Desenvolvendo soluções que unem **tecnologia, automação, design e criatividade**.
+
+<br>
+
+<a href="https://github.com/paulovenoy">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=paulovenoy&style=for-the-badge&color=39FF14&label=VISITAS">
+
+</div>
 
 ---
 
-## 🧠 Sobre mim
+## 🧑‍💻 Sobre mim
 
-💻 Criador de soluções digitais com foco em impacto visual
-🎬 Produção audiovisual + design estratégico
-🚀 CEO da **Venoy Studio**
-🤖 Focado em automação, bots e sistemas inteligentes
+Sou **Full Stack Developer** e fundador da **Venoy Studio**, focado na criação de produtos digitais, sistemas, automações e experiências modernas para a web.
 
-> *"Não é só estética. É presença digital."*
+Gosto de transformar ideias em projetos funcionais, buscando unir:
+
+- 💻 Desenvolvimento Web
+- ⚡ Automações
+- 🤖 Bots
+- 🔗 APIs e integrações
+- 🎨 UI/UX
+- 🚀 Produtos digitais
+
+> **Transformando ideias em soluções digitais.**
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,git,github,vscode&theme=dark">
+
+</div>
+
+<br>
+
+<div align="center">
+
+**JavaScript • Node.js • Python • HTML • CSS • Git • GitHub**
+
+</div>
 
 ---
 
-## 🧩 Ferramentas Criativas
+## 🚀 Projetos em destaque
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae" />
-</p>
+### 🤖 Venoy Bot
 
----
+Bot multifuncional desenvolvido para **WhatsApp**, com foco em automação, comandos e funcionalidades para melhorar a experiência em grupos e atendimentos.
 
-## 🏆 Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCO-AUTOMAÇÃO-00ff00?style=for-the-badge&logo=robot&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CRIADOR-DE%20SISTEMAS-00ff00?style=for-the-badge&logo=code&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DESIGNER-DIGITAL-00ff00?style=for-the-badge&logo=adobe&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CEO-VENOY%20STUDIO-00ff00?style=for-the-badge&logo=fire&logoColor=black"/>
-</p>
+🔗 [Ver projeto](https://github.com/paulovenoy/venoyBot)
 
 ---
 
-⭐ Se chegou até aqui… já sabe né? Deixa uma estrela nos projetos 😉
+### 🎁 Venoy Giveaway
+
+Sistema desenvolvido para realização e gerenciamento de **sorteios online**.
+
+🔗 [Ver projeto](https://github.com/paulovenoy/venoyGiveway)
+
+---
+
+### 💰 Venoy Finances
+
+Aplicação criada para facilitar o **controle financeiro**, permitindo organizar entradas, saídas e acompanhar o saldo.
+
+🔗 [Ver projeto](https://github.com/paulovenoy/venoyFinances)
+
+---
+
+### 🔗 Venoy Link Bio
+
+Página personalizada para reunir **links, redes sociais e informações importantes** em um único lugar.
+
+🔗 [Ver projeto](https://github.com/paulovenoy/venoyLinkBio)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=paulovenoy&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF&locale=pt-br">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovenoy&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&locale=pt-br">
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+---
+
+## 💚 Venoy Studio
+
+<div align="center">
+
+### Software • Automation • Digital Products
+
+Criando soluções digitais com foco em  
+**tecnologia, criatividade e experiência.**
+
+<br>
+
+`CODE` • `CREATE` • `AUTOMATE` • `EVOLVE`
+
+<br><br>
+
+### 🌐 Vamos construir algo?
+
+<a href="https://github.com/paulovenoy">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14">
+</a>
+
+<br><br>
+
+⭐ **Se você gostou de algum projeto, deixe uma estrela!**
+
+<br>
+
+<sub>Designed & developed by <b>Paulo Venoy</b> 💚</sub>
+
+</div>
+```
