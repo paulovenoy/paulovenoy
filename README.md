@@ -20,13 +20,11 @@
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,html,css,vscode,git,github&theme=dark" alt="Tecnologias">
 
-<br><br>
+<br>
 
 `JavaScript` • `Node.js` • `Python` • `HTML` • `CSS` • `Git` • `GitHub`
 
 </div>
-
----
 
 ## 🎨 venoyApps
 
@@ -34,48 +32,19 @@
 
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae&theme=dark" alt="Ferramentas criativas">
 
-<br><br>
+<br>
 
 `Photoshop` • `Illustrator` • `Premiere Pro` • `After Effects`
 
 </div>
 
----
 
-<a href="https://github.com/paulovenoy?tab=repositories">
-<img src="https://img.shields.io/badge/VER_TODOS_OS_REPOSITÓRIOS-007A4D?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 📫 Contatos
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/paulovenoy">
-<img src="https://img.shields.io/badge/LINKEDIN-007A4D?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/paulovenoy">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF88">
-</a>
-
-<a href="https://www.instagram.com/paulovenoy">
-<img src="https://img.shields.io/badge/INSTAGRAM-007A4D?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
----
 
 <div align="center">
 
 ## 💚 Venoy Studio
 
 **You dream, VENOY do it.**
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF88&height=2&section=footer" width="100%">
 <br><br>
